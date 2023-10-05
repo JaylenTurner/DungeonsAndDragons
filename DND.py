@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YourAPIKey"
 
 SAVE_FILE = 'dnd_save.txt'
 
